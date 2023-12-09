@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: WarriorTank
+  m_EditorClassIdentifier: Assembly-CSharp::Ally
+  Name: HecAtor
+  Level: 1
+  Health_Max: 1500
+  Health_Curr: 1500
+  CurrentEffect: 0
+  Max_Exp: 500
+  Curr_Exp: 0
+  Max_PS: 40
+  Curr_PS: 40
+  Max_PM: 0
+  Curr_PM: 0
